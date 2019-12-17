@@ -5,7 +5,7 @@
  * 
  */
 
-package PRN_0018;
+package PRN;
 
 public class Movie {
 
