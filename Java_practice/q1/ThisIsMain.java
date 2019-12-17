@@ -5,7 +5,7 @@
  * 
  */
 
-package PRN_0018;
+package PRN;
 
 import java.util.Scanner;
 
